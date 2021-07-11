@@ -480,9 +480,8 @@ textonegro {
 }
 
 textonegro2 {
-  /* color: black; */
   color: #272727;
-  font-weight: 900;
+  font-weight: 1000;
 }
 
 textorojo {
@@ -495,4 +494,10 @@ textoazul {
 
 linearoja {
   color: rgba(173, 10, 10, 0.479);
+}
+
+linearoja2 {
+  color: rgba(173, 10, 10, 0.479);
+  font-weight: 900;
+  
 }
