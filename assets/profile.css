@@ -479,12 +479,18 @@ textonegro {
   color: #272727;
 }
 
+textonegro2 {
+  /* color: black; */
+  color: #272727;
+  font-weight: 900;
+}
+
 textorojo {
   color: rgba(173, 10, 10, 0.479);
 }
 
 textoazul {
-  color: rgba(21, 18, 214, 0.829);
+  color: rgba(55, 126, 207, 0.89);
 }
 
 linearoja {
