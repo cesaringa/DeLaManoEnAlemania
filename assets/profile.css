@@ -86,9 +86,9 @@ body {
   top: 0;
   left: 0rem;
   width: 100vw;
-  opacity: 0.98;
+  opacity: 0.70;
   visibility: hidden;
-  /* background-color: aqua; */
+  background-color: black;
 }
 
 .nav.open {
@@ -178,9 +178,21 @@ body {
 
 /*----------------------------------------------------------------------------------------------------------------*/
 #about {
+  /* background-image: url("./Paty2_circle.png"); */
+ 
+  height: 100%;
+  background-position:5% 70%;
+  background-repeat: no-repeat;
+  background-size:20%;
+  /* opacity: 0.50; */
+}
+
+#about {
   /* background-color: black !important; */
-  background-color: rgba(255, 196, 0, 0.959) !important;
   /* color: #1a252f; */
+
+  
+  background-color: rgba(236, 208, 114, 0.959) !important;
 }
 #skills {
   background-color: #1c8265 !important;
@@ -224,11 +236,12 @@ body {
   }
 }
 .bg-primary {
+  /* background-image: url("./Delamano_circle.png"); */
   background-image: url("./1-10.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size:cover;
 }
 .soc {
   padding-top: 40px;
@@ -307,6 +320,7 @@ body {
   background-color: #2c3e50;
   border-radius: 1rem;
   border-color: #2c3e50 !important;
+  
 }
 .divider-custom .divider-custom-line:first-child {
   margin-right: 1rem;
@@ -486,6 +500,8 @@ textonegro2 {
 
 textorojo {
   color: rgba(173, 10, 10, 0.479);
+  text-align: center;
+  align-content: center;
 }
 
 textoazul {
@@ -499,5 +515,6 @@ linearoja {
 textorojo2 {
   color: rgba(173, 10, 10, 0.479);
   font-weight: 900;
+  text-align: center;
   
 }
