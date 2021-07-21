@@ -177,13 +177,14 @@ body {
 }
 
 /*----------------------------------------------------------------------------------------------------------------*/
-#about {
-  /* background-image: url("./Paty2_circle.png"); */
- 
+#contact {
+  /* background-image: url("./paty20.jpeg"); */
+  background-image: url("./Paty2_circle.png");
   height: 100%;
-  background-position:5% 70%;
+  background-position:98% 50%;
   background-repeat: no-repeat;
-  background-size:20%;
+  background-size: 30%;
+background-blend-mode:normal;
   /* opacity: 0.50; */
 }
 
@@ -198,7 +199,8 @@ body {
   background-color: #1c8265 !important;
 }
 #contact {
-  background-color: #9d4635 !important;
+  /* background-color: #9d4635 !important; */
+  background-color: #2e6138 !important;
 }
 .my_name {
   font-size: 2.5rem;
