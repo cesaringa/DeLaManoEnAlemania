@@ -181,9 +181,9 @@ body {
   /* background-image: url("./paty20.jpeg"); */
   background-image: url("./Paty2_circle.png");
   height: 100%;
-  background-position:2% 50%;
+  background-position:left center;
   background-repeat: no-repeat;
-  background-size: 30%;
+  background-size:contain;
 background-blend-mode:normal;
   /* opacity: 0.50; */
 }
